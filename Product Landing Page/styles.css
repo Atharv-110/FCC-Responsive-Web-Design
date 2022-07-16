@@ -1,0 +1,17 @@
+#header {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+    height: 120px;
+    display: flex;
+}
+
+@media only screen and (max-width: 800px) 
+{
+  /* For mobile phone::*/ 
+  #header {
+    font-size: 18px;
+  }
+}
