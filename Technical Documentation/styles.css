@@ -1,0 +1,8 @@
+@media only screen and (max-width: 800px) 
+{
+  /* For mobile phone::*/ 
+  #main-doc {
+    font-size: 18px;
+  }
+}
+
